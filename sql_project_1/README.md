@@ -98,3 +98,13 @@ SELECT * FROM Q_9;
 ```sql
 SELECT * FROM Q_10;
 ```
+
+---
+
+## Author
+**Created by @Yash**
+
+If you found this useful, consider leaving a ⭐ on the repository!
+
+---
+
